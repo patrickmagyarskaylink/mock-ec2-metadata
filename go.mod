@@ -1,6 +1,6 @@
 module github.com/NYTimes/mock-ec2-metadata
 
-go 1.12
+go 1.22
 
 require (
 	github.com/NYTimes/gizmo v1.3.5
